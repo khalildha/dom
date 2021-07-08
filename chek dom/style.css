@@ -1,0 +1,67 @@
+body {
+  min-height: 90vh;
+  background-image: url("https://www.techadvisor.fr/cmsdata/slideshow/3688794/istock-698677286_thumb800.jpg");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Helvetica, Arial, sans-serif;
+  color: rgb(1, 12, 29);
+}
+.container {
+  width: 60%;
+  
+  background-color: #ffffff;
+  border: 1px solid transparent;
+  opacity: 0.9;
+  border-radius: 7px;
+}
+.totale {
+  border-bottom: 1px solid #d2d4d6;
+}
+.totale p {
+  margin-left: 30px;
+  font-size: 18px;
+  color: #4a4b4c;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+}
+.fas {
+  color: red;
+}
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 50px;
+  margin-top: 10px;
+  border-bottom: 1px solid #d2d4d6;
+}
+
+.lastrow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 30px;
+  padding-right: 50px;
+  margin-top: 10px;
+}
+span {
+  color: #137ce6;
+}
+
+.price {
+  color: #7a90a9;
+}
+
+.fa-heart {
+  color:grey;
+}
+
+.myClass {
+  color: red;
+}
